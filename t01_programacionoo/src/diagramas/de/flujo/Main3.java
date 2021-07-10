@@ -11,6 +11,7 @@ public class Main3 {
 
 			System.out.println("7 x " + t + " = " + R);
 			}
+		
 	}
 
 }
