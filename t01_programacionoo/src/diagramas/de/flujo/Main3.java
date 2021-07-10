@@ -10,7 +10,7 @@ public class Main3 {
 			int R = 7 * t;
 
 			System.out.println("7 x " + t + " = " + R);
-		}
+			}
 	}
 
 }
